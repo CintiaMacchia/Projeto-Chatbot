@@ -1,0 +1,10 @@
+body {
+    background-image: url('./assets/logo.png');
+    background-size: cover;
+}
+
+.links a{
+    color: #400080;
+    font-size: 20px
+}
+
